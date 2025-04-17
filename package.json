@@ -1,0 +1,11 @@
+{
+  "name": "Soapleasure",
+  "version": "1.0.0",
+  "description": "Project Portofolio",
+  "main": "index.js",
+  "author": "Rio Niadi Putra",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^14.3.0"
+  }
+}
